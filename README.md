@@ -1,4 +1,9 @@
-# Counter
-Simple Counter Website
+# 🔢 Counter App
 
-Counter website using  HTML, CSS and Basic JAVASCRIPT
+A simple counter application that allows users to increase, decrease, and reset a count.  
+
+## 🚀 Features  
+- Increment and decrement functionality  
+- Reset button to start over  
+- Responsive   
+
